@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 314b469d85abf064c883afeb05e6dd51
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121179
+  packageName: HexMap Tools
+  packageVersion: 1.1.1
+  assetPath: Assets/HexMap Tools/Examples/Animations/CameraAnimations/BlueTurn.anim
+  uploadId: 280231

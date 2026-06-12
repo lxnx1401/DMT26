@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: df0f944cda49bd14ea4a748e57f66ae9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121179
+  packageName: HexMap Tools
+  packageVersion: 1.1.1
+  assetPath: Assets/HexMap Tools/Examples/Animations/CellAnimations/Highlighted.anim
+  uploadId: 280231

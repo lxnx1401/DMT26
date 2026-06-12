@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 511a1c8338891924ba5eab1ee59d9e48
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121179
+  packageName: HexMap Tools
+  packageVersion: 1.1.1
+  assetPath: Assets/HexMap Tools/Examples/Animations/CellAnimations/CellAnimator.controller
+  uploadId: 280231
