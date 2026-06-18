@@ -777,7 +777,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::MenuManager
   mainMenuCanvas: {fileID: 614555581}
   settingsCanvas: {fileID: 1875033989}
-  gameplaySceneName: Gameplay
+  gameplaySceneName: Gameplay_TerrainProjectedTiles
 --- !u!4 &728042785
 Transform:
   m_ObjectHideFlags: 0
