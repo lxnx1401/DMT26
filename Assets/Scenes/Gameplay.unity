@@ -2047,6 +2047,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 582176789}
     m_Modifications:
+    - target: {fileID: 154160, guid: d1f03074e612bbd4b84736d2d7aee882, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 436524, guid: d1f03074e612bbd4b84736d2d7aee882, type: 3}
       propertyPath: m_RootOrder
       value: 3
@@ -3321,22 +3325,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cdd4d8337bc44a48bc2619c6af32114, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  blueScoreText: {fileID: 0}
-  redScoreText: {fileID: 0}
-  gameOverText: {fileID: 0}
-  cameraAnimator: {fileID: 0}
-  hexCalculator:
-    hexScale:
-      scale: {x: 1, y: 1}
-    container: {fileID: 0}
-  selectedCoords:
-    x: 0
-    y: 0
-  possibleMoves: []
-  blueCells: []
-  redCells: []
-  player: 0
-  isGameOver: 0
 --- !u!114 &1439983461
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3349,16 +3337,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4b32f011f2635f14ea9ad756c0571165, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hexCalculator:
-    hexScale:
-      scale: {x: 0.9, y: 0.8999999}
-    container: {fileID: 1439983462}
-  enableSnap: 1
-  snapImmediately: 0
-  createPrefabConnection: 0
-  palette:
-  - {fileID: 1103253913006862, guid: f4b38a20cb6e1b24eaca2068f9a9c27c, type: 3}
-  - {fileID: 0}
 --- !u!4 &1439983462
 Transform:
   m_ObjectHideFlags: 0
