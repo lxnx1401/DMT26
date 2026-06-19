@@ -1,0 +1,15 @@
+/Users/michi/Documents/Persönlich/Studium/ViertesSemester/DigitalMediaTechnologies/Projekt/DMT26/Assets/Scripts/TestAdaptive/CatanStrengthPrototype/bin/Debug/net8.0/CatanStrengthPrototype
+/Users/michi/Documents/Persönlich/Studium/ViertesSemester/DigitalMediaTechnologies/Projekt/DMT26/Assets/Scripts/TestAdaptive/CatanStrengthPrototype/bin/Debug/net8.0/CatanStrengthPrototype.deps.json
+/Users/michi/Documents/Persönlich/Studium/ViertesSemester/DigitalMediaTechnologies/Projekt/DMT26/Assets/Scripts/TestAdaptive/CatanStrengthPrototype/bin/Debug/net8.0/CatanStrengthPrototype.runtimeconfig.json
+/Users/michi/Documents/Persönlich/Studium/ViertesSemester/DigitalMediaTechnologies/Projekt/DMT26/Assets/Scripts/TestAdaptive/CatanStrengthPrototype/bin/Debug/net8.0/CatanStrengthPrototype.dll
+/Users/michi/Documents/Persönlich/Studium/ViertesSemester/DigitalMediaTechnologies/Projekt/DMT26/Assets/Scripts/TestAdaptive/CatanStrengthPrototype/bin/Debug/net8.0/CatanStrengthPrototype.pdb
+/Users/michi/Documents/Persönlich/Studium/ViertesSemester/DigitalMediaTechnologies/Projekt/DMT26/Assets/Scripts/TestAdaptive/CatanStrengthPrototype/obj/Debug/net8.0/CatanStrengthPrototype.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michi/Documents/Persönlich/Studium/ViertesSemester/DigitalMediaTechnologies/Projekt/DMT26/Assets/Scripts/TestAdaptive/CatanStrengthPrototype/obj/Debug/net8.0/CatanStrengthPrototype.AssemblyInfoInputs.cache
+/Users/michi/Documents/Persönlich/Studium/ViertesSemester/DigitalMediaTechnologies/Projekt/DMT26/Assets/Scripts/TestAdaptive/CatanStrengthPrototype/obj/Debug/net8.0/CatanStrengthPrototype.AssemblyInfo.cs
+/Users/michi/Documents/Persönlich/Studium/ViertesSemester/DigitalMediaTechnologies/Projekt/DMT26/Assets/Scripts/TestAdaptive/CatanStrengthPrototype/obj/Debug/net8.0/CatanStrengthPrototype.csproj.CoreCompileInputs.cache
+/Users/michi/Documents/Persönlich/Studium/ViertesSemester/DigitalMediaTechnologies/Projekt/DMT26/Assets/Scripts/TestAdaptive/CatanStrengthPrototype/obj/Debug/net8.0/CatanStrengthPrototype.sourcelink.json
+/Users/michi/Documents/Persönlich/Studium/ViertesSemester/DigitalMediaTechnologies/Projekt/DMT26/Assets/Scripts/TestAdaptive/CatanStrengthPrototype/obj/Debug/net8.0/CatanStrengthPrototype.dll
+/Users/michi/Documents/Persönlich/Studium/ViertesSemester/DigitalMediaTechnologies/Projekt/DMT26/Assets/Scripts/TestAdaptive/CatanStrengthPrototype/obj/Debug/net8.0/refint/CatanStrengthPrototype.dll
+/Users/michi/Documents/Persönlich/Studium/ViertesSemester/DigitalMediaTechnologies/Projekt/DMT26/Assets/Scripts/TestAdaptive/CatanStrengthPrototype/obj/Debug/net8.0/CatanStrengthPrototype.pdb
+/Users/michi/Documents/Persönlich/Studium/ViertesSemester/DigitalMediaTechnologies/Projekt/DMT26/Assets/Scripts/TestAdaptive/CatanStrengthPrototype/obj/Debug/net8.0/CatanStrengthPrototype.genruntimeconfig.cache
+/Users/michi/Documents/Persönlich/Studium/ViertesSemester/DigitalMediaTechnologies/Projekt/DMT26/Assets/Scripts/TestAdaptive/CatanStrengthPrototype/obj/Debug/net8.0/ref/CatanStrengthPrototype.dll
